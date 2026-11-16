@@ -1,0 +1,68 @@
+#idea #seed 
+- A pattern language for supporting how to "view" digital gardens on the web and allow for better authoring experience by sprinkling JS seamlessly into md.
+- Patterns: 
+	- Bi-directional links
+		- Even for foreign websites by sending them a web-mention and having a service to receive a web mention
+		- We need to have contextual backlinks!
+	- Link unfurling
+	- Multiple view with stack based horizontal scrolling
+	- Notes uniquely identified by slugs that are snaked and lower cases from their Obsidian filenames
+	- Obsidian markdown support
+	- Native authoring experience with obsidian 
+	- Index the content's graph, syntatic and semantic layer 
+	- Support for essay style meandering of the digital garden
+	- Support for a better graph component to spatially view connections
+	- Have support to see the evolution of the digital garden.
+	- Somehow support for user generated trails. Allowing them to be shared is easy
+	- Custom OG:images support and even support for generating og:image cards for custom stacked image?
+	- Completely vite based with a good backend server 
+	- Must have rebuild support and obsidian first
+	- Templating system and template support. 
+	- Good SEO support.
+	- First class support for media. 
+- Stuff like:
+	- Stickerification of images
+	- Engelbart component
+	- Telescopic text 
+	- Playful components
+	- Command-K navigation should nicely fit into the framework. They can be implemented by me perhaps, but should be supported in the system. 
+- After months of fucking around, I think I am getting an idea on what should be a part of the system and what should not. 
+	- A ssg built on top of Astro model. The vault will be a part of the directory
+	- There will be obsidian primitives:
+		- html web-components as markdown directives
+			- Better link affordances, decorate some links to show importance to click
+			- Engelbart component
+			- Telescopic text
+			- card hovers
+			- Icons
+			- X, Bsky and Discord components?
+			- more semantic zoom primitives?
+			- flash-card component? I low-key want to be able to
+			- transclusions. 
+			- Support having pop-ups?? (this seems low-key tougher).
+			- code editor??
+			- https://idyll-lang.org/docs take a look at this.
+		- Spaced Repetition support
+		- Hyperlink maximalism support
+			- Semantic Index???
+			- Search index
+		- Digital Garden build support
+			- Astro support!!!
+			- Playful elements
+			- Windowing support
+			- Foreign link unfurl preview support
+			- Semantic maps should be visible.
+			- Time travel support
+			- Great typography and modular theming support
+			- Search index re-use 
+			- Contextual backlinks with text based fragments
+			- Command K
+			- good side notes support
+				- Tags support and Obsidian bases too, hopefully :>
+		- Semantic maps!!!!!! (This is gonna be needing quite some research)
+		- Time travel support
+		- History feature? 
+			- The ability to easily refer to read stuff. Might require support from a data hoarding tool. 
+
+- Ontology support:
+	- I have a feeling that Ontology, Knowledge Graphs, Querying might be sorta related. 

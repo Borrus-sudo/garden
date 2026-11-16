@@ -1,0 +1,19 @@
+- The what vs how. The macro vs micro way to think about stuff. 
+- Declarative vs imperative
+- Unseeing
+- Form fits the context, Unfolding. Form vs Function. You need to find a form that fits your function. 
+- Judging technological progress and making progress
+- Moving Up and Down the levels of abstraction.
+- Separating the "what" from "how". Also linked to A/B qn. We have an issue in solution B to problem A. Chances are you must tell about the problem "A" too.
+- Possibility space. 
+- Seeing abstractions as repetitions.
+- How do I inculcate the "breaking of rules" inside this? e.g when Nike's just paid the fines cause Jordan's shoes had too much red.
+- Breaking law is sort of essentially this too. Holding the law notoriously to its letter. 
+- Seeing through the semantics and seeing the syntax and moulding it over to create some intricate effect leads to "humor" (violation of expectations), "hacking" (in the traditional sense). 
+- This was also in exponents, we went from $X^2$ towards $X^{\frac{1}{2}}$ .  We went from semantics -> syntax and then did some pattern recognition in syntax which eventually did lead to some new semantics!
+- Coding agents and prompting are also about the "what" and the "how". If you are enough about the "what" you prolly won't care about the "how". Not sure how much of the "how" we should give away. Feels like we have to keep traversing this cone. I really wany LLMs that can I personalize the fuck out of. Guardian Angels article by gwern?. This is like zooming in and zooming out.  
+- https://www.thebigquestions.com/2014/11/17/the-generalist/. The Zoom out approach. Mathematics deals with finding better abstractions that encapsulate a whole lot of ideas. Alexander Grothendieck did just this. Instead of trying to open a chest-nut open with a chiesel, we sink it in the ocean, make it softer just that after months, it can be opened with just hand pressure. "Perspective is worth 80 IQ points", "Being in a pink plane, you can only have ideas that conform to that plane's context and rules. It is a mental optimization. Have blue ideas!" -- Alan Kay
+- Dealing with higher levels of abstraction in CS might cause the fears that [[Law of Leaky Abstraction]] warns but more abstract mathematical definitions just improve understanding. I think this is because mathematics tries to encapsulate the essence of bunch of definitions. Where as CS abstractions do the same, but under-the-hood use one specific implementation which might leak. 
+- Using LLMs to be more ambitious stuff. 
+- Sol Lewitt vs Van Gogh and Jean-Pierre vs Alexander Grothendieck.
+- We are still better at at zooming out because of abductive reasoning and more real world agency? Can world models and robots change that?

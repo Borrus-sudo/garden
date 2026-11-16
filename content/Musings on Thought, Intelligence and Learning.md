@@ -1,0 +1,55 @@
+I have long been curious about what does it mean for someone to be smart, insightful, clairvoyant? What are the hidden insights that an individual sees that allows them to make a ground breaking discovery, prove or disprove a conjecture or come up with systems, algorithms or optimizations which require non-trivial amount of clairvoyance. I have frequently pondered upon the "how", how do they come up with such ingenious ideas, how do they walk through the walls. Can we learn something from this? Here is my long walk-in-the-park digression across various topics, theories and disciplines that hopefully gives you an answer (of sorts) to the question.
+
+### Thoughts, Thinking and Associations
+
+The simples way to define **thought** is as (in)voluntary flash of neurons which hold an idea. A thought is generally not isolated, they are always in connection with others thoughts. This is so because our brains have evolved in a form that affords forming connections. Vannevar Bush in his article [As We May Think](https://worrydream.com/refs/Bush%20-%20As%20We%20May%20Think%20(Life%20Magazine%209-10-1945).pdf) popularized the idea of **associations**. The human brain files thoughts by associations. We have a web of thoughts that are interlinked to each other and **thinking** is to traverse those web of associations! Most of our time spent thinking is utilized in finding connections and traversing them to fulfill our outcome. Based upon this observation Bush proposed a hypothetical machine called [[Memex]] which models this very mechanism. We can store anything inside the machine, quickly access it and associatively index across documents forming trails. These trails mimic the way we form associations between thoughts. Modern note-taking tools like Obsidian, Roam essentially allows us to do the same thing with wiki-links. The modern web is also modelled similarly using hyperlinks with the caveat that they are not bi-directional.
+
+The takeaway being to form more associations by reading far and wide and digesting the material by exposing the current mental models to the new concepts and integrating them effectively. Forming associations is half the battle. The other half is to actually memorize and **remembering** them in the long run. The less traversed trails of thoughts tend to fade away from our memory which could have led us to a ground breaking discovery. Spending time writing these trails down in modern note taking apps and using spaced repetition techniques to frequently revisit them helps a lot. We cover them in more depth in the following sections.
+
+
+### Howard Gartner's Theory of Intelligences
+
+The human thoughts and understanding are not organized around a single track. Our brain is multi-faceted in the kind of thoughts it can support. This is best explained with the help of Howard Gartner's theory of intelligences.
+Howard lists the following kinds of intelligences:
+- Musical Intelligence: This area includes having high sensitivity to sounds, rhythms, pitch and tones of music. Individuals high in music intelligence maybe able to sing, play instruments or compose music.
+- Spatio-Visual Intelligence: The ability to use the mind's eye to imagine and hold mental pictures vividly and perform various operations like transformation, rotation and manipulation on them! People demonstrating high visuo-spatial intelligence are able to navigate and orient themselves more easily without requiring a map. Judging distance and angle is naturally easier for them. Architects, Artists, Industrial Designers, Chess players, Athletes tend to possess this intelligence in abundance. Some tasks may require one more than the other. Landscape artists need to hold detailed mental pictures but are not really required to manipulate them. I am conjecturing that you can better at these skills by practicing and they are also showing to be transferrable. See [this](https://www.youtube.com/watch?v=5rTDZ59H4ao) Engineering graphics is the ultimate test of spatial skills. The use of CAD software allows one to rely more on the computer than their mind eye. Hence there is a need to change how Engineering Graphics is taught in colleges since it still uses traditional paper and ruler method.
+- Logical-Mathematical: This area concerns logic, abstractions, reasoning. This sort of intelligence is required in mathematics, programming, accounting, finance, banking etc. I personally like to refer to this intelligence as the "Symbolic Intelligence". Most of our [[Symbolic Intelligence|symbolic thought]] occurs in a language called mentalese which is universal and independent of your mother tongue. We represent entities symbolically in the system. Our mind is like a processor which performs logical operations upon these symbols to generate output symbols. Certain logical operations that the mind performs are baked into our brain due to evolution. This is also probably the reason why we fall a prey to so many #bias . Look into Daniel Kahneman's Behavioral economics to read more about them. Metaphor is also a powerful tool of inference that this system affords where similar looking symbolic patterns remind us of those thoughts. We cover metaphor and abstraction in the following sections in detail! 
+- Linguistic intelligence: The capability of being sensitive to words and their meanings. People with high linguistic intelligence display an expressive use of language and verbal comprehension. They are typically good at reading, writing, telling stories, rhetoric and memorizing words. 
+- Physical Intelligence: Being able to control the bodily movements and having fine motor skills. This can be decomposed into two main types of intelligence: kinesthetic and tactile. Kinesthetic is being able to control, coordinate and plan bodily movements accurately and tactile is being able to use hands skillfully. They can use their bodies to express their thoughts and emotions. Athletes, Potterers, Carpenters, Law Enforcement Officers, dancers display high physical intelligence! 
+- and [more](https://www.youtube.com/watch?v=5rTDZ59H4ao)... (they are excluded cause I don't think they are particularly relevant to our central question.)
+ As William Thurston says, these mental faculties are at a talk with each other at a high level.
+
+### IDGAF attitude and VARK theory 
+https://www.reddit.com/r/deaf/comments/egwjpe/if_a_deaf_person_also_suffers_from_aphantasia_how/
+Aphantasic artist
+Alan Kay had paid special attention to mental modes and learning theory whilst developing the user-interfaces. 
+We can stick ourselves to mental modes.
+Just use tools to get whatever you want done!
+Material intelligence.
+An artist will always find their way through. Humans are tool creators fundamentally. Steve Jobs example.
+We shape our tools and then our tools shape us
+VARK theory focusses on using the right intelligence for the job. A lots of people who do science have used spatio-visual and muscular intelligence. Again Alan Kay talk reference here.  
+Johnny Harris focus on Visual Storytelling and Scott Mcclouds': Understanding Comics.
+Mind in Motion by Barbara Tversky
+### Metaphor and Abstraction Gradient
+- Metaphor as a tool of inference and The Powers of Abstraction Gradient. 
+- Alan Kay also made a point of saying that we learn the abstract from concrete. This is where metaphors play. So metaphors can explain evolution and also possibly learning as children? However there certainly a symbolic system in place.
+## Peripheral Thinking 
+
+## Maintain a pattern language!
+[[Pattern language for Out-of-the-box thinking]]
+
+### Habits are software traits 
+- Live in the future
+- Be curious, be interdisciplinary (T-shaped and U-shaped hybrids). Have interest in a wide variety of things. Esp in the LLM era. Use LLMs aggressively (How to use Claude Code). Be more ambitious. Being addicted to learning. See [[Knowledge Cycle]] on how to do it aptly. Be addicted to learning hard and wide variety of things. https://futureofcoding.github.io/futureofcoding.org/notes/alan-kay-lunch the learning tax. Reading books. Perspective is worth 80 IQ points. Serendepity of new perspectives
+- Take a questions first approach. Use LLMs to get shit done. View everything as a problem to be solved. Self Efficacy; Link to [[2026-10-07#^2c8f2b]] Follow the questions you love.  Invisible problems. Follow bit of learning with building something, even small so you can play with it! Inventing On Principles. [[Generative Mantra]]. "Just do it". How little do we understand the problems and What needs to be done! Questions give rise to more questions!
+	- It is really to important to also spend some time doing more explorative stuff too. Most of the times whilst doing exploratory stuff, you will come with breakthroughs. Peripheral thinking of sorts.  
+	- Guys like Blake Scholl and Zane Hensperger are really the pioneers in this. 
+- Be agentic & agile! Learn by doing things. Do experiments. [[Form fits the context]]. Alice Maz you can just do things. 
+- Writing is thinking. 
+- Bayesian Thinking. Can I bet upon it?. Fooled by Randomness thoughts No Survivorship bias!
+- Learn to hyper-compartmentalize like elite racing drivers. Focus on the task at hand. Don't left the uncertainty of future distract you too much. Focus on what you can do and what you need to do at the moment.
+- Be a part of a small group! Like Benjamin Franklin was part of Junto Club, Tolkien and C.S Lewis were a part of The Inklings, Steve Jobs and Steve Wozniak were a part of a Small Group. In person teams https://futureofcoding.github.io/futureofcoding.org/notes/alan-kay-lunch
+- Timed reviews: Weekly, monthly and 3 monthly to align yourself well with high level goals. 
+- Play and have fun!!! Be optimistic about the future! Have self efficacy, be optimistic and that no matter what you will come out on top!
+  
